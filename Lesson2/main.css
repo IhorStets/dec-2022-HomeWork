@@ -1,0 +1,46 @@
+.father {
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+}
+
+.header {
+    background-color: #2269BB;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #EEEBEF;
+    font-size: 36px;
+    font-family: Calibri, serif;
+
+}
+
+.center {
+    height: 300px;
+    display: flex;
+    column-gap: 30px;
+}
+
+.box {
+    background-color: #16457A;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #EEEBEF;
+    font-size: 20px;
+    font-family: Calibri, serif;
+}
+
+.end {
+    height: 600px;
+    background-color: #2269BB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #EEEBEF;
+    font-size: 36px;
+    font-family: Calibri, serif;
+}
